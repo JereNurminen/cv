@@ -23,10 +23,12 @@ Diverse studies in the field of IT, specializing in software development. Course
 
 ## Skills
 ### Python
-I've used Python to automate some of my workload with custom scripts and create web apps with **Flask** (ie. [a blog platform](https://github.com/JereNurminen/blog-platform) and [a weather reporting app](https://github.com/JereNurminen/weather-app)). Currently falling in love with it.
+I've used Python to automate some of my workload with custom **scripts** and create web apps with **Flask** (ie. [a blog platform](https://github.com/JereNurminen/blog-platform) and [a weather reporting app](https://github.com/JereNurminen/weather-app)). Currently falling in love with it.
 ### Javascript
 I've done a few projects with **React** (both of the aforementioned projects used it, the former for its admin page and the latter for the whole front end). I'm also familiar with **Node**, having used it in [one *older* project](https://github.com/JereNurminen/nodejs_chat_webapp). I'm really interested in using both in the future.
 ### Java
 Java has been with me since the beginning in the form of school projects, which mainly focused on it. I've created **Spring/Spring Boot** web apps and an **Android** e-learning app for a Finnish company in a team.
 ### PHP
 There's no escaping PHP. I've used it for custom (and way too complicated) **WordPress** templates and very simple CRUD apps.
+### Linux
+I've hosted many of my projects on my own **virtual server**, and I've had to deal with configuring and troubleshooting it. Currently much of my dev work is powered by WSL.
