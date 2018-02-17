@@ -1,4 +1,4 @@
-# Jere Nurminen - Curriculum Vitae
+# Jere Nurminen
 **Software Development Student at [Haaga-Helia UAS](https://www.haaga-helia.fi/)**
 
 **Junior Web Developer at [McCann Helsinki](www.mccann.fi)**
@@ -31,4 +31,4 @@ Java has been with me since the beginning in the form of school projects, which 
 ### PHP
 There's no escaping PHP. I've used it for custom (and way too complicated) **WordPress** templates and very simple CRUD apps.
 ### Linux
-I've hosted many of my projects on my own **virtual server**, and I've had to deal with configuring and troubleshooting it. Currently much of my dev work is powered by WSL.
+I've hosted many of my projects on my own **virtual server**, and I've had to deal with configuring and troubleshooting it.
