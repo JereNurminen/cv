@@ -1,9 +1,9 @@
-# Jere Nurminen
+# JERE NURMINEN
 **Software Development Student at [Haaga-Helia UAS](https://www.haaga-helia.fi/)**
 
 **Junior Web Developer at [McCann Helsinki](www.mccann.fi)**
 
-## Skills
+## SKILLS
 
 ### Python
 I have utilized Python to automate some of my workload with custom **scripts** and create web apps with **Flask** (ie. [a blog platform](https://github.com/JereNurminen/blog-platform) and [a weather reporting app](https://github.com/JereNurminen/weather-app)). Currently falling in love with it.
@@ -21,7 +21,7 @@ There's no escaping PHP. I have used it for ~~complicated~~ custom **WordPress**
 I have hosted many of my projects on my own **virtual server** and have spent long intensive hours configuring and troubleshooting it.
 
 
-## Studies
+## STUDIES
 
 ### Haaga-Helia UAS
 
@@ -33,7 +33,7 @@ Wide-ranging IT studies, specializing in software development. Projects in devel
 #### Matriculation Exam (08/2010 - 05/2013)
 
 
-## Work Experience
+## WORK EXPERIENCE
 
 ### McCann Helsinki
 
