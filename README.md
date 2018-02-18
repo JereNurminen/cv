@@ -49,3 +49,5 @@ Varied customer service jobs in retail, mostly consisting of working as a cashie
 
 #### Conscript Graphic Designer (03/2014 - 09/2014)
 Working as NDU's graphic designer. Designing and producing a multitude of both printed and digital materials for the school's events and website, in addition to doing the layout of two bigger releases.
+
+*The latest version of this document is available in [this Github repository](https://github.com/JereNurminen/cv).*
