@@ -40,7 +40,7 @@ Wide-ranging IT studies, specializing in software development. Projects in devel
 ### Reaktor
 
 #### Software Developer (05/2018 - 08/2018)
-Summer job as a Software Developer
+Summer job as a Software Developer.
 
 ### McCann Helsinki
 
