@@ -1,7 +1,7 @@
 # JERE NURMINEN
 **Software Development Student at [Haaga-Helia UAS](https://www.haaga-helia.fi/)**
 
-**Junior Web Developer at [McCann Helsinki](www.mccann.fi)**
+**Software Developer at [Reaktor](https://www.reaktor.com)**
 
 *The latest version of this document is available in [this Github repository](https://github.com/JereNurminen/cv).*
 
@@ -37,9 +37,14 @@ Wide-ranging IT studies, specializing in software development. Projects in devel
 
 ## WORK EXPERIENCE
 
+### Reaktor
+
+#### Software Developer (05/2018 - 08/2018)
+Summer job as a Software Developer
+
 ### McCann Helsinki
 
-#### Junior Web Developer (04/2017 - )
+#### Junior Web Developer (04/2017 - 05/2018)
 Creating WordPress sites (from scratch with custom themes), JavaScript-animated banners and coding HTML newsletters. 
 
 ### Opteam Oy
