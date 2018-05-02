@@ -11,7 +11,7 @@
 I have utilized Python to automate some of my workload with custom **scripts** and create web apps with **Flask** (ie. [a blog platform](https://github.com/JereNurminen/blog-platform) and [a weather reporting app](https://github.com/JereNurminen/weather-app)). Currently falling in love with it.
 
 ### Javascript
-I have done a few projects with **React** (used in both of the aforementioned projects, the former for its admin page and the latter for the whole front end). I'm also familiar with **Node**, having used it in [an *older* project](https://github.com/JereNurminen/nodejs_chat_webapp). I am looking forward to using both in the future.
+I have done a few projects with **React** (used in both of the aforementioned projects, the former for its admin page and the latter for the whole front end). I'm also familiar with **Node**, having used it in [a *much older* project](https://github.com/JereNurminen/nodejs_chat_webapp). I am looking forward to using both in the future.
 
 ### Java
 Java has been with me since the beginning of my studies, with a firm focus on it. I have created **Spring/Spring Boot** web apps and an **Android** e-learning app for a Finnish company as a team.
@@ -22,6 +22,8 @@ There's no escaping PHP. I have used it for ~~complicated~~ custom **WordPress**
 ### Linux
 I have hosted many of my projects on my own **virtual server** and have spent long intensive hours configuring and troubleshooting it.
 
+### Clojure
+Currently studying the basics, very interested in learning more.
 
 ## STUDIES
 
